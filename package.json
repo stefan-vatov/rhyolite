@@ -1,0 +1,17 @@
+{
+  "name": "rescript-template",
+  "version": "1.0.0",
+  "description": "ReScript project template",
+  "main": "src/index.bs.js",
+  "repository": "git@github.com:stefan-vatov/rescript-template.git",
+  "author": "Stefan Vatov",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "scripts": {
+    "build": "rescript",
+    "start": "rescript build -w",
+    "clean": "rescript clean -with-deps"
+  }
+}
