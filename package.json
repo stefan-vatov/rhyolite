@@ -7,7 +7,7 @@
   "author": "Stefan Vatov",
   "license": "MIT",
   "devDependencies": {
-    "rescript": "^9.1.4"
+    "rescript": "^10.1.4"
   },
   "scripts": {
     "build": "rescript",
